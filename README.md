@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**vgomesapp/vgomesapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👋 Hi, I’m @vgomesapp
 - 👀 I’m interested in  driving innovative digital projects for a sustainable and inclusive future
 - 🌱 I’m currently learning open innovation and ecosystem dynamics within the product development realm
